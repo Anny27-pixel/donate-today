@@ -1,6 +1,7 @@
 body {
     font-family: 'Poppins', sans-serif;
     margin: 0;
+    text-align: center;
 }
 
 h1 {
@@ -67,6 +68,7 @@ p {
     border-radius: 5px;
     text-align: center;
     justify-content: center;
+    border: hidden;
 
 }
 
@@ -110,7 +112,7 @@ p {
     color: tomato;
 }
 
-input {
+#amount {
     border: hidden;
     opacity: 0.8;
     text-align: center;
@@ -160,4 +162,31 @@ hr {
 .half-width img {
     width: 100%;
 
+}
+
+.contact {
+    text-align: center;
+}
+
+form {
+    display: inline-block;
+    background-color: rgb(249, 221, 190);
+    width: 809px;
+    height: 200px;
+    left: 316px;
+    top: 3300px;
+
+}
+
+
+#email {
+    padding: 10px 20px;
+    color: grey;
+    font-weight: 700;
+    border-radius: 5px;
+    text-align: center;
+    justify-content: center;
+    border: hidden;
+    background: rgb(216, 213, 213);
+    margin-top: 10%;
 }
