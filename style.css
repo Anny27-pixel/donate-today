@@ -176,6 +176,14 @@ hr {
     text-align: center;
 }
 
+.contact-form {
+    display: inline-block;
+    padding: 0;
+    margin-left: -5px;
+    text-align: center;
+    margin-top: 10%;
+}
+
 form {
     display: inline-block;
     background-color: rgb(249, 221, 190);
@@ -183,12 +191,13 @@ form {
     height: 200px;
     left: 316px;
     top: 3300px;
+    margin-bottom: 5%;
 
 }
 
 
 #email {
-    padding: 10px 20px;
+    padding: 14px 20px;
     color: grey;
     font-weight: 700;
     border-radius: 5px;
@@ -196,7 +205,7 @@ form {
     justify-content: center;
     border: hidden;
     background: rgb(216, 213, 213);
-    margin-top: 10%;
+
 }
 
 footer {
