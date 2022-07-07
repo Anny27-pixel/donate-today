@@ -149,3 +149,15 @@ hr {
 #education {
     background: rgba(235, 250, 122, 0.1);
 }
+
+.half-width {
+    width: 50%;
+    padding-left: 2%;
+    text-align: left;
+    padding-right: 200px;
+}
+
+.half-width img {
+    width: 100%;
+
+}
